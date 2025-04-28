@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/luizfxdev/readme.md1/main/intro.gif" alt="Intro LuizFX" style="max-width: 100%; height: auto; border-radius: 8px;" />
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/luizfxdev/readme.md1/main/intro.gif" 
+    alt="Intro LuizFX" 
+    width="800"
+  />
+</p>
 
 ## 📖 Sobre mim
 
