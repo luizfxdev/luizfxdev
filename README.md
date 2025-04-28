@@ -142,19 +142,20 @@ Combinando formação técnica sólida e visão prática, estou preparado para e
 ## 📊 Estatísticas
 
 <p>
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    alt="Estatísticas do GitHub" 
     src="https://github-readme-stats.vercel.app/api?username=luizfxdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    height="200"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfxdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Linguagens mais usadas" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfxdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="200"
   />
+
+</div>
 
 </p>
