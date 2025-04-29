@@ -152,7 +152,7 @@ Combinando formação técnica sólida e visão prática, estou preparado para e
 
   <img 
     alt="Estatísticas do GitHub" 
-    src="https://github-readme-stats.vercel.app/api?username=luizfxdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
     height="200"
   />
 
