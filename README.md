@@ -3,6 +3,7 @@
     src="https://raw.githubusercontent.com/luizfxdev/readme.md1/main/intro.gif" 
     alt="Intro LuizFX" 
     width="800"
+    height="300"
   />
 </p>
 
