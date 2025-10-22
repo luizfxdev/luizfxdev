@@ -28,6 +28,7 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
 
 <h2 style="font-family: 'Montserrat', sans-serif; font-size: 28px;">🤖 Tecnologias que Utilizo
 
+
 <img 
     align="left" 
     alt="HTML"
