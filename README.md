@@ -7,33 +7,12 @@
   />
 </p>
 
-## 📖 Sobre mim
+Sou Luiz Felipe de Oliveira, desenvolvedor Full Stack apaixonado por criar experiências digitais que unem tecnologia, propósito e usabilidade. Formado em Análise e Desenvolvimento de Sistemas, desenvolvo landing pages, e-commerces e sites institucionais com foco em performance, responsividade e experiência do usuário.
 
-Olá, eu me chamo Luiz Felipe de Oliveira.
+Estou sempre em evolução: realizo desafios diários de lógica de programação e crio projetos desafiadores para ampliar meu conhecimento, praticar novas tecnologias e movimentar minha rede no LinkedIn.
 
-Sou apaixonado por transformar ideias em experiências digitais reais. Acredito que a tecnologia só faz sentido quando se conecta com as pessoas — e é justamente essa combinação entre criatividade e propósito que me move no dia a dia.
-
-Antes de entrar na área de tecnologia, atuei como comerciante no ramo de materiais elétricos. Lá, desenvolvi habilidades essenciais como negociação, atendimento ao cliente e gestão, que hoje aplico de forma estratégica no desenvolvimento de soluções digitais funcionais e centradas no usuário.
-
-Sou formado em Análise e Desenvolvimento de Sistemas pela UNINASSAU e especializado em Programação Full Stack JavaScript pela OnebitCode. Atualmente, estou sempre explorando novas tecnologias e frameworks, com foco em sites e aplicações acessíveis, intuitivas e impactantes.
-
-💡 Missão: Criar soluções que não apenas atendam às necessidades dos usuários, mas que proporcionem experiências memoráveis.
-
-🚀 Sempre pronto para novos desafios. Se você é um recrutador ou está buscando alguém para transformar uma ideia em realidade, vamos conversar!
-
-
-
-## 💡 Transformando ideias em experiências digitais
-
-Está em busca de alguém que transforme ideias em soluções web funcionais, modernas e bem estruturadas?
-Eu desenvolvo landing pages, e-commerces e sites institucionais, com foco em performance, responsividade e experiência do usuário.
-
-Combinando formação técnica sólida e visão prática, estou preparado para enfrentar desafios reais e contribuir ativamente em projetos de valor.
-
-🔎 Explore meu portfólio para conhecer meus trabalhos e entender como posso agregar à sua equipe ou ao seu projeto.
-
-📫 Entre em contato — estou aberto a oportunidades e pronto para colaborar.
-
+💡 Missão: Criar soluções que gerem valor e proporcionem experiências memoráveis.
+🚀 Aberto a novas oportunidades para transformar ideias em realidade e contribuir com projetos de impacto.
 
 
 ## 🤖 Tecnologias que Utilizo
