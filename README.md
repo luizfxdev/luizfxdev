@@ -7,18 +7,18 @@
   />
 </p>
 
-<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 28px;">📖 Sobre mim</h2>
+<h2 style="font-family: 'Montserrat', sans-serif; font-size: 28px;">📖 Sobre mim</h2>
 
-<p align="justify" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
+<p style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
 Sou <strong>Luiz Felipe de Oliveira</strong>, desenvolvedor <strong>Full Stack</strong> apaixonado por criar experiências digitais que unem <strong>tecnologia, propósito e usabilidade</strong>.  
 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, desenvolvo <strong>landing pages</strong>, <strong>e-commerces</strong> e <strong>sites institucionais</strong> com foco em <strong>performance</strong>, <strong>responsividade</strong> e <strong>experiência do usuário</strong>.
 </p>
 
-<p align="justify" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
+<p style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
 Estou sempre em evolução: realizo <strong>desafios diários de lógica de programação</strong> e crio <strong>projetos desafiadores</strong> para ampliar meu conhecimento, praticar novas tecnologias e movimentar minha rede no <strong>LinkedIn</strong>.
 </p>
 
-<p align="justify" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
+<p style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
 💡 <strong>Missão:</strong> Criar soluções que gerem valor e proporcionem experiências memoráveis.  
 🚀 <strong>Aberto a novas oportunidades</strong> para transformar ideias em realidade e contribuir com projetos de impacto.
 </p>
@@ -26,7 +26,7 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
 <!-- Fonte Montserrat do Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 
-<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 28px;">🤖 Tecnologias que Utilizo
+<h2 style="font-family: 'Montserrat', sans-serif; font-size: 28px;">🤖 Tecnologias que Utilizo
 
 <img 
     align="left" 
