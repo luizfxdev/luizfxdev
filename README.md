@@ -15,6 +15,7 @@ Sou Luiz Felipe de Oliveira, desenvolvedor Full Stack apaixonado por criar exper
 Estou sempre em evolução: realizo desafios diários de lógica de programação e crio projetos desafiadores para ampliar meu conhecimento, praticar novas tecnologias e movimentar minha rede no LinkedIn.
 
 💡 Missão: Criar soluções que gerem valor e proporcionem experiências memoráveis.
+
 🚀 Aberto a novas oportunidades para transformar ideias em realidade e contribuir com projetos de impacto.
 
 
