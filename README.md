@@ -27,7 +27,7 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 
 <h2 style="font-family: 'Montserrat', sans-serif; font-size: 28px;">🤖 Tecnologias que Utilizo
-
+<p style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
 
 <img 
     align="left" 
