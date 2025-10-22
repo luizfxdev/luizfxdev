@@ -7,19 +7,26 @@
   />
 </p>
 
-## 📖 Sobre mim
+<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 28px;">📖 Sobre mim</h2>
 
+<p align="justify" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
+Sou <strong>Luiz Felipe de Oliveira</strong>, desenvolvedor <strong>Full Stack</strong> apaixonado por criar experiências digitais que unem <strong>tecnologia, propósito e usabilidade</strong>.  
+Formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, desenvolvo <strong>landing pages</strong>, <strong>e-commerces</strong> e <strong>sites institucionais</strong> com foco em <strong>performance</strong>, <strong>responsividade</strong> e <strong>experiência do usuário</strong>.
+</p>
 
-Sou Luiz Felipe de Oliveira, desenvolvedor Full Stack apaixonado por criar experiências digitais que unem tecnologia, propósito e usabilidade. Formado em Análise e Desenvolvimento de Sistemas, desenvolvo landing pages, e-commerces e sites institucionais com foco em performance, responsividade e experiência do usuário.
+<p align="justify" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
+Estou sempre em evolução: realizo <strong>desafios diários de lógica de programação</strong> e crio <strong>projetos desafiadores</strong> para ampliar meu conhecimento, praticar novas tecnologias e movimentar minha rede no <strong>LinkedIn</strong>.
+</p>
 
-Estou sempre em evolução: realizo desafios diários de lógica de programação e crio projetos desafiadores para ampliar meu conhecimento, praticar novas tecnologias e movimentar minha rede no LinkedIn.
+<p align="justify" style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
+💡 <strong>Missão:</strong> Criar soluções que gerem valor e proporcionem experiências memoráveis.  
+🚀 <strong>Aberto a novas oportunidades</strong> para transformar ideias em realidade e contribuir com projetos de impacto.
+</p>
 
-💡 Missão: Criar soluções que gerem valor e proporcionem experiências memoráveis.
+<!-- Fonte Montserrat do Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 
-🚀 Aberto a novas oportunidades para transformar ideias em realidade e contribuir com projetos de impacto.
-
-
-## 🤖 Tecnologias que Utilizo
+<h2 align="center" style="font-family: 'Montserrat', sans-serif; font-size: 28px;">🤖 Tecnologias que Utilizo
 
 <img 
     align="left" 
