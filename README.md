@@ -20,7 +20,7 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
 
 <p style="font-family: 'Montserrat', sans-serif; font-size: 16px;">
 💡 <strong>Missão:</strong> Criar soluções que gerem valor e proporcionem experiências memoráveis.
-<br><br>
+  
 🚀 <strong>Aberto a novas oportunidades</strong> para transformar ideias em realidade e contribuir com projetos de impacto.
 </p>
 
