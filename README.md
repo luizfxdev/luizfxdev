@@ -136,6 +136,16 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
+/>
+<img 
+    align="left" 
+    alt="Vite" 
+    title="Vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/java-original.svg" 
+/>
+
 
 <br/>
 <br/>
