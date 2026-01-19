@@ -145,7 +145,14 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/java.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/spring.svg" 
+/>
 
 <br/>
 <br/>
