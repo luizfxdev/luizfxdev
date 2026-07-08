@@ -6,7 +6,7 @@
 
 ## 📖 Sobre
 
-Sou **Luiz Felipe de Oliveira**, desenvolvedor **Full Stack** apaixonado por criar experiências digitais que unem **tecnologia, propósito e usabilidade**. Formado em **Análise e Desenvolvimento de Sistemas**, desenvolvo **landing pages**, **e-commerces** e **sites institucionais** com foco em **performance**, **responsividade** e **experiência do usuário**.
+Sou **Luiz Felipe de Oliveira**, desenvolvedor **Full Stack** apaixonado por criar experiências digitais que unem **tecnologia, propósito e usabilidade**. Formado em **Análise e Desenvolvimento de Sistemas**, desenvolvo **Sistemas**, **Páginas Web** com foco em **performance**, **responsividade** e **experiência do usuário**.
 
 ---
 
