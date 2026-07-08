@@ -57,7 +57,7 @@ Criar soluções que gerem valor e proporcionem experiências memoráveis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=8000ff)](https://linkedin.com/in/luizfxdev)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/luizfxdev)
-[![Email](https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=8000ff)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0e27?style=for-the-badge&logo=gmail&logoColor=8000ff)](mailto:luizfx.dev@gmail.com)
 
 ---
 
