@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luizfxdev/luizfxdev/main/header.gif" alt="Header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/luizfxdev/luizfxdev/main/header.html" alt="Header" width="100%"/>
 </div>
 ---
  
