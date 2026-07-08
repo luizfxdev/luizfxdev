@@ -148,21 +148,16 @@ Estou sempre em evolução: realizo <strong>desafios diários de lógica de prog
 
 
 ### 📊 Estatísticas
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        alt="Estatísticas do GitHub" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=luizfxdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td>
-      <img 
-        alt="Linguagens mais usadas" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfxdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=luizfxdev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfxdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+    alt="Linguagens mais usadas"
+  />
+</p>
