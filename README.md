@@ -31,7 +31,7 @@ Sou **Luiz Felipe de Oliveira**, desenvolvedor **Full Stack** apaixonado por cri
 ## 📊 Estatísticas
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizfxdev&theme=material-palenight&background=0a0e27&stroke=8000ff&ring=8000ff&fire=ff0000&currStreakLabel=8000ff)](https://github.com/luizfxdev)
 
 
 </div>
